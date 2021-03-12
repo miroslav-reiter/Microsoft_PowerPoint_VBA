@@ -1,2 +1,2 @@
-# Microsoft_PowerPoint_VBA
+# Microsoft PowerPoint VBA
 Automatizácia úloh, opravy a úpravy Microsoft PowerPoint
